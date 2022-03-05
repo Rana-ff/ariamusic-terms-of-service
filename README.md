@@ -1,7 +1,7 @@
 # ariamusic-terms-of-service
 Listen to a music bot with style! Feature rich with high quality music custom playlist , autoplay and much more!
 
-#TERMS OF SERVICE
+# TERMS OF SERVICE
 
 1. You may not use the bot if you are under the legal age to use Discord.
 2. You may not use the bot for malicious intent, including sending links to viruses, phishing, and other questionable content in report cmd.
